@@ -1,4 +1,4 @@
-const blessed = require("blessed")
+const blessed = require("gitboard-cli-blessed")
 const contrib = require("../")
 
 const screen = blessed.screen()

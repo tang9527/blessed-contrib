@@ -1,4 +1,4 @@
-import * as Blessed from 'blessed'
+import * as Blessed from 'gitboard-cli-blessed'
 export = BlessedContrib
 declare namespace BlessedContrib {
 

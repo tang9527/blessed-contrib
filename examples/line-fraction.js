@@ -1,4 +1,4 @@
-var blessed = require('blessed')
+var blessed = require('gitboard-cli-blessed')
 , contrib = require('../index')
 , screen = blessed.screen()
 , line = contrib.line(

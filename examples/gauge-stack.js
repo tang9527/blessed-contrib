@@ -1,4 +1,4 @@
-var blessed = require('blessed')
+var blessed = require('gitboard-cli-blessed')
   , contrib = require('../')
   , screen = blessed.screen()
   , grid = new contrib.grid({rows: 2, cols: 2, hideBorder: true, screen: screen})
